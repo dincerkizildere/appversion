@@ -5,8 +5,9 @@
         <item>
             <title>Version 3.0.0</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2022 12:00:00 +0000</pubDate>
+            <pubDate>THU, 18 Aug 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.tk.ibb.izmirtrafik" sparkle:version="3.0.0" sparkle:os="android" />
+            <enclosure url="https://apps.apple.com/tr/app/i-zum-i-zmir-ula%C5%9F%C4%B1m-merkezi/id1287001770?l=tr" sparkle:version="3.0.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
