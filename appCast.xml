@@ -7,6 +7,9 @@
             <description>Minor updates and improvements.</description>
             <pubDate>Suna, 19 Aug 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.tk.ibb.izmirtrafik" sparkle:version="2.8.9" sparkle:os="android" />
+                       <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
